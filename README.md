@@ -1,4 +1,4 @@
-# login_try
+# Simple Login with view obscure Text
 
 A new Flutter project.
 
